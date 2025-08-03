@@ -77,5 +77,5 @@
 
 ---
 
-I'm a software developer passionate about creating practical solutions through code. My interests currently lie in AI engineering, data analysis, and web scraping technologies. I enjoy building small tools to automate tasks and optimize workflows. Beyond development, I'm diving deeper into the Linux ecosystem and exploring the Arch distribution to expand my technical expertise.
+I'm a software developer passionate about creating practical solutions through code. My interests currently lie in AI engineering, data analysis, and web scraping technologies. I enjoy building small tools to automate tasks and optimize workflows. Beyond development, I'm diving deeper into the Linux ecosystem and exploring the Debian distribution to expand my technical expertise.
 
